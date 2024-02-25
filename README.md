@@ -4,14 +4,7 @@
 </h1>
 
 <h2 align="center"> 💻 Computer Science student at Unisinos. </h2>
-
-	<style>
-		.texto {
-			font-family: "Courier New", serif;
-			text-align: center;
-		}
-	</style>
-<div class="texto">
+<div align="center">
 	🚀 Learning Django, Django REST Framework, HTML, CSS, and JavaScript to become a fullstack developer! Passionate about game development and all the mathematics and physics involved in this kind of project. Let's build something awesome together! 💻🎮
 </div>
 
