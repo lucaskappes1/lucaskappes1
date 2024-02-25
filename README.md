@@ -8,15 +8,19 @@
 	🚀 Learning Django, Django REST Framework, HTML, CSS, and JavaScript to become a fullstack developer! Passionate about game development and all the mathematics and physics involved in this kind of project. Let's build something awesome together! 💻🎮
 </div>
 
+<div align="center">
 <a href="https://github.com/anuraghazra/convoychat">
 	<img height=150 align="center" src="https://github-readme-stats-blond-seven-54.vercel.app/api/top-langs?username=lucaskappes1&layout=compact&langs_count=8&card_width=200&include_all_commits=true&count_private=true" />
 </a>
+</div>
 
 <h2 align="center">Technologies</h2>
 
+<div align="center>
 <a href="https://skillicons.dev">
 	<img align="center" src="https://skillicons.dev/icons?i=c,cpp,mysql,postgres,git,github,html,css,js,java,django,python"/>
 </a>
+</div>
 
 <h2 align="center">Contact Me!</h2> 
 
