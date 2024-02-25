@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Mulish&weight=600&size=50&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=600&height=150&lines=Hello!;I%27m+Lucas+Kappes!"/>
 
-<!--
-**lucaskappes1/lucaskappes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1>
 
-Here are some ideas to get you started:
+<h2 align="center"> 💻 Computer Science student at Unisinos. </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	<style>
+		.texto {
+			font-family: "Courier New", serif;
+			text-align: center;
+		}
+	</style>
+<div class="texto">
+	🚀 Learning Django, Django REST Framework, HTML, CSS, and JavaScript to become a fullstack developer! Passionate about game development and all the mathematics and physics involved in this kind of project. Let's build something awesome together! 💻🎮
+</div>
+
+<a href="https://github.com/anuraghazra/convoychat">
+	<img height=150 align="center" src="https://github-readme-stats-blond-seven-54.vercel.app/api/top-langs?username=lucaskappes1&layout=compact&langs_count=8&card_width=200&include_all_commits=true&count_private=true" />
+</a>
+
+<h2 align="center">Technologies</h2>
+<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=c,cpp,mysql,postgres,git,github,html,css,js,java,django,python"/>
+</a>
+
+<h2 align="center">Contact Me!</h2> 
+
+<p align="center" style="display: inline-block">
+	<a href="https://www.linkedin.com/in/lucas-kappes-79552125b/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	<a href="mailto:lucaskappes2017@gmail.com" tagert="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
