@@ -5,7 +5,7 @@
 
 <h2 align="center"> Computer Science student at Universidade do Vale do Rio dos Sinos. </h2>
 <div align="center">
-	🚀 Learning Django, Django REST Framework, HTML, CSS, and JavaScript to become a fullstack developer! Passionate about game development and all the mathematics and physics involved in this kind of project. Let's build something awesome together! 💻🎮
+	🚀 Learning Spring Boot to become a back end developer! Let's build something awesome together! 💻🎮
 </div>
 
 <div align="center">
